@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/stretchr/objx"
-	"github.com/stretchr/testify/assert"
+	"github.com/attic-labs/testify/assert"
 )
 
 // TestingT is an interface wrapper around *testing.T

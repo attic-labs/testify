@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/stretchr/testify",
+	"ImportPath": "github.com/attic-labs/testify",
 	"GoVersion": "go1.5",
 	"Packages": [
 		"./..."
